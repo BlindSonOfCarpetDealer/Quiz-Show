@@ -1,0 +1,11 @@
+C:\Users\Cinar Dagderen\Desktop\thats enoug for quiz\bin\Debug\thats enoug for quiz.exe.config
+C:\Users\Cinar Dagderen\Desktop\thats enoug for quiz\bin\Debug\thats enoug for quiz.exe
+C:\Users\Cinar Dagderen\Desktop\thats enoug for quiz\bin\Debug\thats enoug for quiz.pdb
+C:\Users\Cinar Dagderen\Desktop\thats enoug for quiz\obj\Debug\thats enoug for quiz.csproj.AssemblyReference.cache
+C:\Users\Cinar Dagderen\Desktop\thats enoug for quiz\obj\Debug\thats enoug for quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cinar Dagderen\Desktop\thats enoug for quiz\obj\Debug\thats_enoug_for_quiz.Form1.resources
+C:\Users\Cinar Dagderen\Desktop\thats enoug for quiz\obj\Debug\thats_enoug_for_quiz.Properties.Resources.resources
+C:\Users\Cinar Dagderen\Desktop\thats enoug for quiz\obj\Debug\thats enoug for quiz.csproj.GenerateResource.cache
+C:\Users\Cinar Dagderen\Desktop\thats enoug for quiz\obj\Debug\thats enoug for quiz.csproj.CoreCompileInputs.cache
+C:\Users\Cinar Dagderen\Desktop\thats enoug for quiz\obj\Debug\thats enoug for quiz.exe
+C:\Users\Cinar Dagderen\Desktop\thats enoug for quiz\obj\Debug\thats enoug for quiz.pdb
